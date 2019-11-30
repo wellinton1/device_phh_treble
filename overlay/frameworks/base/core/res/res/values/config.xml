@@ -36,4 +36,7 @@
 	<dimen name="config_buttonCornerRadius">4.0dip</dimen>
 	<integer name="config_deviceHardwareKeys">127</integer>
 	<integer name="config_deviceHardwareWakeKeys">65</integer>
+	
+        <!-- Enable home button wake option (Havoc) -->
+        <bool name="config_HomeWakeButton">true</bool>
 </resources>
